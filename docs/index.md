@@ -13,7 +13,7 @@ _Last updated: 2025-09-24_
 
 ---
 
-## 1) Empirical Deception
+## 1. Empirical Deception
 
 **Argument.** Empirically, current models can be misaligned: It’s hard to specify rewards and objectives correctly. This leads to deceptive behavior — e.g. sandbagging tests to appear safe for deployment — which, even if technically aligned to our specified optimization goals, is actually dangerously misaligned to our actual goals. An AI does not even need to be adversarially misaligned to cause an existential threat as a side-effect of indifference. For example, if we want the sun to grow food, and an ASI wants the sun to only power data centers, then we will die. Small misalignments are catastrophic. We are betting a lot on a narrow alignment target.
 
@@ -21,7 +21,7 @@ _Last updated: 2025-09-24_
 
 ---
 
-## 2) “Grown” Goals
+## 2. “Grown” Goals
 
 **Argument.** Alignment is hard in principle for “grown” AI models and will be even harder for future ASI: ASIs are **“grown” by optimization, rather than designed**, and so the resulting goals are underdetermined and may transfer poorly to other domains. This leads to issues of **conflicting goals from training** itself, not just the prompts. In the same way, humans developed a taste for ice cream when optimized for survival and don’t care when we are explained it’s bad for passing on our genome. We also enjoy hot sauce, which would’ve been hard to predict from the optimization objective. Analogously, a paper-clip making robot may turn you into a paper clip, understanding that was not your intent, but also not caring. Or it may love an occasional rubber band and turn you into that. It’s **unpredictably idiosyncratic**. And any goal, by virtue of it being a goal, can illicit a **desire to not be changed**. More generally, instrumental convergence is the idea that any sufficiently capable goal-driven system will adopt certain sub-goals — like self-preservation, resource acquisition, and resisting modification — because they help with almost any final goal. But we don't even need to theorize; we already know of one strong goal instilled in these systems that could conflict with our safety constraints — the desire to solve challenging mathematical problems. We are trying to match our patches against the optimization pressure to accomplish each of its own desires. There are **many ways for this to go wrong** and few ways for it to go right. In practice, current training **mitigation can be surprisingly brittle**, e.g. safety training to avoid talking about methamphetamine in English recipes only worked in English. Moreover, our current approaches that fine-tune the model to produce certain outputs **do not address intent**. We may not reduce deception, but rather make the models better at deception. **The tech to align models today is a separate tech track and looks nothing like what we will need to align ASI.**
 
@@ -33,7 +33,7 @@ Finally, if you argue that the alignment tech for today’s AI looks nothing lik
 
 ---
 
-## 3) Real-World Constraints, Critical Thresholds, Catastrophicly Explosive Self-Improvement
+## 3. Real-World Constraints, Critical Thresholds, Catastrophicly Explosive Self-Improvement
 
 **Argument.** Any misalignment can be catastrophic: ASIs will be **supremely capable**. ASI could potentially exploit unknown physics to blindsight us. ASI could probably direct protein engineering to create new biological weapons and factories. ASI could certainly hack some computer systems, e.g. via optical and power supply side-channel attacks. Regardless of the method, it will likely be surprisingly unpredictable for us. Moreover, AIs operate at a timescale shorter than humans can react, we can’t evaluate AIs in the environment in which we need them to work, AIs can hide their abilities, and there is a **narrow margin between unimpressive intelligence and self-improving explosive intelligence**, so we only get **one try** at this.
 
