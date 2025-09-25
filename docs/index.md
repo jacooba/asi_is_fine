@@ -29,7 +29,7 @@ _Last updated: 2025-09-24_
 
 This is where “instrumental convergence” often gets raised. However, this isn’t a law of nature; it depends on how the goals are structured. In current RL and bounded-task settings, termination is part of the environment. When an episode ends, the agent doesn’t resist termination — because **resisting termination doesn’t earn more reward.** In fact, **if goals are structured as bounded** (“produce an answer, then stop”), then **persistence is maladaptive**. Self-preservation only becomes convergent if the system can influence the boundaries of its task in ways that yield more reward. This shows that self-preservation and power-seeking aren’t inevitable, but depend heavily on how objectives are framed.
 
-Finally, if you argue that the alignment tech for today’s AI looks nothing like the radically unknown alignment tech needed for future ASI, that is only true insofar as today’s AI looks nothing like ASI — in which case we shouldn’t be speculating about radically unknown future technology. Speculation is valuable, but only insofar as it remains tethered to empirical results, and **if current results suggest anything about the future, it is that our mitigation strategies are working better than expected.**
+Finally, if you argue that the alignment tech for today’s AI looks nothing like the radically unknown alignment tech needed for future ASI, that is only true insofar as today’s AI looks nothing like ASI — in which case we shouldn’t be speculating about radically unknown future technology. Speculation is valuable, but only if it remains tethered to empirical results, and **if current results suggest anything about the future, it is that our mitigation strategies are working better than expected.**
 
 ---
 
