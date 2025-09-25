@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ASI is Fine
+title: If Anyone Builds It, We're Fine
 ---
 
 Welcome. I'm [Jacob Beck](https://www.jakebeck.com). This site hosts my critique of *If Anyone Builds It, Everyone Dies.*
