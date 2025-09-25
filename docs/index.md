@@ -1,6 +1,6 @@
 ---
 layout: page
-title: If Anyone Builds It, Everyone Dies — Response
+title: ASI is Fine
 ---
 
 Welcome. This site hosts my critique of *If Anyone Builds It, Everyone Dies.*
