@@ -3,7 +3,7 @@ layout: page
 title: ASI is Fine
 ---
 
-Welcome. This site hosts my critique of *If Anyone Builds It, Everyone Dies.*
+Welcome. I'm [Jacob Beck](https://www.jakebeck.com). This site hosts my critique of *If Anyone Builds It, Everyone Dies.*
 
 I argue that artificial superintelligence itelligence (ASI) will be fine.
 
