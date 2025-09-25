@@ -10,7 +10,7 @@ _Last updated: 2025-09-24_
 
 ---
 
-## 1) Empirical Misalignment & Deception
+## 1) Empirical Deception
 
 **Argument.** Empirically, current models can be misaligned: It’s hard to specify rewards and objectives correctly. This leads to deceptive behavior — e.g. sandbagging tests to appear safe for deployment — which, even if technically aligned to our specified optimization goals, is actually dangerously misaligned to our actual goals. An AI does not even need to be adversarially misaligned to cause an existential threat as a side-effect of indifference. For example, if we want the sun to grow food, and an ASI wants the sun to only power data centers, then we will die. Small misalignments are catastrophic. We are betting a lot on a narrow alignment target.
 
