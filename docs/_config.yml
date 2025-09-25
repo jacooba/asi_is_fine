@@ -2,8 +2,3 @@ title: ASI Arguments
 description: A structured critique of “If Anyone Builds It, Everyone Dies”
 theme: minima
 markdown: kramdown
-minima:
-  skin: auto
-header_pages:
-  - arguments.md
-  - references.md
