@@ -5,7 +5,8 @@ title: If Anyone Builds It, We're Fine
 
 Welcome. I'm [Jacob Beck](https://www.jakebeck.com). This site hosts my critique of *If Anyone Builds It, Everyone Dies.*
 
-I argue that artificial superintelligence itelligence (ASI) will be fine.
+I don’t claim certainty, but I argue that artificial superintelligence (ASI) will be fine.  
+I hope this serves as a useful resource for thoughtful discussion, and I’m open to being convinced otherwise.
 
 _Last updated: 2025-09-24_
 
