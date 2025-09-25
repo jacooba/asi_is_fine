@@ -1,5 +1,6 @@
 ---
 layout: page
+title: If Anyone Builds It, Everyone Dies — A Response
 ---
 
 Welcome. This site hosts my critique of *If Anyone Builds It, Everyone Dies.*  
