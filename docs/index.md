@@ -4,6 +4,7 @@ title: If Anyone Builds It, Everyone Dies — Response
 ---
 
 Welcome. This site hosts my critique of *If Anyone Builds It, Everyone Dies.*
+
 I argue that artificial superintelligence itelligence (ASI) will be fine.
 
 _Last updated: 2025-09-24_
